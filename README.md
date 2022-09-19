@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadeagenesis
 - 👀 I’m interested in design and working with web tools
-- 🌱 I’m currently learning UX design 
+- 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on almost anything fun.
 - 📫 How to reach me @jadegenesis on Twitter
 
