@@ -2,6 +2,7 @@
 - 👀 CS Student,
 - Software Developer 👩🏽‍💻
 - Product Designer
+- Campus Ambassador @Cowryrise
 - I’m looking to collaborate on almost anything fun.
 - 📫 How to reach me @jadegenesis on Twitter
 
